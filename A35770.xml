@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the most glorious and most magnificent arches erected at the Hague for the reception of William III, King of Great Britain with all the motto's and Latin inscriptions that were written upon every one of the said arches / translated into English from the Dutch.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35770</idno>
+            <idno type="STC">Wing D1163</idno>
+            <idno type="STC">ESTC R90</idno>
+            <idno type="EEBO-CITATION">12264582</idno>
+            <idno type="OCLC">ocm 12264582</idno>
+            <idno type="VID">57964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the most glorious and most magnificent arches erected at the Hague for the reception of William III, King of Great Britain with all the motto's and Latin inscriptions that were written upon every one of the said arches / translated into English from the Dutch.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.S. and are to be sold by Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of an undetermined work in Dutch.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57964:1"/>
+            <pb facs="tcp:57964:1"/>
+            <p>A DESCRIPTION Of the moſt Glorious and moſt Magnificent ARCHES Erected at the HAGUE, For the Reception of WILLIAM III. <hi>King of Great Britain.</hi> With all the MOTTO's and Latin INSCRIP<g ref="char:EOLhyphen"/>TIONS that were Written upon every one of the ſaid ARCHES.</p>
+            <p>
+               <hi>Tranſlated into Engliſh from the Dutch.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>P. S.</hi> and are to be ſold by <hi>Richard Baldwin,</hi> at the <hi>Oxford</hi> Arms in <hi>Warwick-Lane.</hi> M.DC.XCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57964:2"/>
+            <pb n="3" facs="tcp:57964:2"/>
+            <head>A DESCRIPTION OF THE Moſt Glorious and moſt Magnificent Arches Erected at the <hi>HAGUE</hi> for the Reception of WILLIAM III. King of Great Britain, &amp;c.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed </hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Feb.</hi> 4. 1690.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>HIS Majeſty <hi>WILLIAM</hi> the Third of <hi>Great Britain,</hi> having made His Voyage into <hi>Holland,</hi> and being arrived at the <hi>Hague,</hi> the moſt Noble and moſt High the Eſtates of <hi>Holland</hi> and <hi>Weſt-Friezeland,</hi> as well as the Honourable Magi<g ref="char:EOLhyphen"/>ſtrates of the <hi>Hague,</hi> gave Orders to prepare for a Reception correſpondent to the Majeſty of ſo Glorious and ſo Excellent a Monarch. To which purpoſe their High and Mighty Lordſhips, among other things, have Erected one Triumphal Arch, and the Magiſtrates two more, to be ſet, one in the Piazza called <hi>Buyton-Hoff,</hi> the other in the publick Piazza, and the third in the Market-place of the <hi>Hague;</hi> the Figure and Structure of which, together with the Latin Inſcriptions which adorn them, are as fol<g ref="char:EOLhyphen"/>low.</p>
+            <p>That which was ſet up at the <hi>Buyton-Hoff</hi> was a Triumphal Arch, of a moſt curious Italian Architecture, the Order compounded Doric, having three open Gates, that of the middle being the higheſt of all, ſupported backwards and forwards upon eight Pillars, underneath upon large Baſements, ſeparated from the Body of the Work.</p>
+            <pb n="4" facs="tcp:57964:3"/>
+            <p>Upon every one of thoſe Baſements, ſtand two of the ſaid Pillars with a <hi>Copulo</hi> of eight Faces upon the ſaid Overture; In the middle, upon which <hi>Copulo</hi> appears a <hi>Pedeſtal,</hi> upon which is repreſented His Majeſty on Horſeback; both Figures coſtly Gilded. To the Horſes, on each ſide are tied two Slaves, or Statues of a Braſs colour, proſtrate and groveling, and the whole work is coloured, as if it were of Free Stone: between the Pillars, and upon each ſide inward and outward, the ſpaces are filled with Pictues, com<g ref="char:EOLhyphen"/>prehending ſome Hiſtorical Repreſentation, and Hieroglyphical Figure, relating to the Life and Glorious Actions of His Majeſty. At the Frontiſpiece of that ſtately Arch, and upon the fore-mentioned Pillars, as well backwards as forwards, and at each ſide, are placed in the ſame order, eight Statues of both Sexes together, to the height and bigneſs of the Life. In that part of the Arch which faceth the end of the Town, up<g ref="char:EOLhyphen"/>on a very high Pedeſtal, ſet above all, on both ſides of the round pieces that cover the Work, is erected a <hi>Neptune,</hi> lying down with his Trident in his Hand, with this Motto underneath.</p>
+            <p>
+               <hi>Tiumphet in <g ref="char:V">Ʋ</g>ndis.</hi>
+            </p>
+            <p>Let him Triumph upon the Seas.</p>
+            <p>At the other ſide of the Arch that looks towards the Street, commonly called <hi>Cingel,</hi> upon a like Pedeſtal, a Plow-man with a Spade in his hand, with this Motto under<g ref="char:EOLhyphen"/>neath,</p>
+            <p>
+               <hi>Attingat Solium Jovis.</hi>
+            </p>
+            <p>Let him reach to <hi>Jupiter</hi>'s Throne.</p>
+            <p>Round about the <hi>Copulo</hi> is written the following Inſcription.</p>
+            <p>
+               <hi>Pio, Felici, Inclyto, Guilielmo tertio, triumphanti Patriae patri, Gubernatori,</hi> P.C. I. P. <hi>Reſtauratori Belgii foederati, Liberatori Angliae, Servatori Scotiae, Pacificatori Hiberniae, reduci.</hi>
+            </p>
+            <p>To the Pious, Happy, Renowned <hi>William</hi> the Third, the Triumphant Father of his Countrey, Governor, Stadtholder, and Reſtorer of the <hi>
+                  <g ref="char:V">Ʋ</g>nited Netherlands. England</hi>'s Liberator, <hi>Scotland</hi>'s Preſerver, <hi>Ireland</hi>'s Pacificator, now returned.</p>
+            <p>Upon the Frontiſpiece underneath the Statues above-mentioned on the ſide of the <hi>Buyton-hoff,</hi> are theſe following Inſcriptions.</p>
+            <p>In the firſt place,</p>
+            <p>
+               <hi>Poſt maximas res Domi foriſque geſtas, arctiſſimo cum Principibus icto foedere, ſuorum vindex, Defenſor oppreſſorum.</hi>
+            </p>
+            <p>After greater things done at home and abroad, as having made a ſtriſt League with the Princes, the Revenger of his Subjects wrongs, and Defender of the oppreſſed.</p>
+            <p>Under that, and upon a large Picture, there is a little Table upon which are repre<g ref="char:EOLhyphen"/>ſented ſeveral armed men fighting a Dragon, with this Motto,</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>niti fortius obſtant.</hi>
+            </p>
+            <p>Being United they make a ſtronger opppoſition.</p>
+            <p>In the Second hallow Seat this Motto,</p>
+            <p>
+               <hi>Mare tranſvectus liberat Britanniam, &amp; latè dominantibus ornatus Sceptris, in Patriam publica, cum laetitia receptus eſt.</hi>
+            </p>
+            <p>Being paſſed beyond Sea, he ha reſcued <hi>Great Britain,</hi> and being adorned with Scepters of a vaſt extended power, he has been received in his own Countrey with all the Demonſtrations of publick joy.</p>
+            <p>In the Table underneath is repreſented a balance with the two Scales, in one of which are ſeveral Crowns, and in the other a Sword, the Sword out-weighing the Crowns, with theſe words,</p>
+            <p>
+               <hi>Praemia not aequant.</hi>
+            </p>
+            <p>Rewards are not anſwerable to Merit.</p>
+            <pb n="5" facs="tcp:57964:3"/>
+            <p>In the third hollow Seat, this Motto,</p>
+            <p>
+               <hi>Lugente Patria, maerente Europ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, afflicta antiquiſſima Naſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>viorum ſtirpe, Heroum, Impe<g ref="char:EOLhyphen"/>ratorum, Principum Faecunda.</hi>
+            </p>
+            <p>Our Countrey mourning and bewailing, <hi>Europe</hi> in tears, the moſt ancient Family of <hi>Naſſau</hi> (fertile and producing Heroes, Emperors, and Princes) afflicted.</p>
+            <p>In a Table underneath is repreſented a Phaenix burning, with this Sentence.</p>
+            <p>
+               <hi>Praelucit poſthuma proles.</hi>
+            </p>
+            <p>Born after his Father's death, ſhines ſo much the more.</p>
+            <p>In the fourth hollow Nich.</p>
+            <p>
+               <hi>Gulielmum poſthumum, Britannorum Aranſionenſiumque tertium, Patriae ſpem, Reipub<g ref="char:EOLhyphen"/>licae palladium.</hi>
+            </p>
+            <p>
+               <hi>William</hi> born after his Fathers Death, the Third of <hi>Great Britain</hi> and of <hi>Orange,</hi> the hope of his own Countrey, and the Support of the Common-Wealth.</p>
+            <p>In a Table underneath is repreſented a Scepter and three Crowns with this Motto,</p>
+            <p>
+               <hi>Tenues ornant diademata cunae.</hi>
+            </p>
+            <p>Tender Age an ornament to Diadems.</p>
+            <p>On the back ſide of the ſaid Arch towards the Palace are alſo four hollow Niches in the Frontiſpiece, with the following Inſcriptions.</p>
+            <p>In the firſt hallow Nich,</p>
+            <p>
+               <hi>Fatum Europae favens, dedi. de Coelo, faturam portend<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns Majeſtatem, admodum puerum exemplar conſtituit.</hi>
+            </p>
+            <p>Fate favourable to <hi>Europe,</hi> has beſtow'd him from Heaven, and portending his fu<g ref="char:EOLhyphen"/>ture Majeſty ſix'd him for an example when he was but very young.</p>
+            <p>As on the other ſide above a large Picture, there is a little Table, upon which is re<g ref="char:EOLhyphen"/>preſented a young Eagle flying upwards againſt the riſing of the Sun, with this Motto, <hi>Tener adverſis e<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>titur alis.</hi> Young and tender as he is, he ſtrives with all the force of his Wings againſt the Wind.</p>
+            <p>In the Second. <hi>Qui juventute ſtrenuè tranſacta, funeſtis jactata bellis ac diſſidiis intanto rerum diſcrimine.</hi> Who having ſpent his Youth in many hardſhips, toſs'd with funeſt Wars and Seditions, in ſo much hazard, vanquiſh'd all before him.</p>
+            <p>In the Table underneath is repreſented a Caſtle upon a Hill, at the foot of which is a Javelin planted, from which ſpring up two branches of Lawrel, with theſe words, <hi>Contorta Triumphos portendit.</hi> Darted forth it preſages Triumphs.</p>
+            <p>In the Third, <hi>Nutantis Belgii, quae Mari, qua Terra admotus, in priſt inum decus guber<g ref="char:EOLhyphen"/>naculi, gloriam, aras &amp; faces aſſeruit.</hi> The Netherlands tottering, and he made Chief Commander by Sea and Land, has re eſtabliſh'd the Government in its firſt luſtre, con<g ref="char:EOLhyphen"/>ſerved our Religion and ſecur'd the People.</p>
+            <p>In the Table underneath is a Boat with ſome arm'd men in, who row it forward, with this inſcription, <hi>Alter erit Tithys.</hi> There will be another <hi>Tithys.</hi>
+            </p>
+            <p>In the fourth hollow Seat, <hi>Meritis famam ſuperantibus Trophaeis, Principiatavis Regibus editae, faelicibus junctis hymenaeis.</hi> His merited Triumphs ſurmounting Fame it ſelf, more glorious ſtill by happy Marriage with a Princeſs born of Royal Anceſtors.</p>
+            <p>In the Table underneath are an Unicorn and a Lyon going ſide by ſide, the Unicorn thruſting with his horn a heap of Serpents and Vipers, with theſe words, <hi>Viruſque fu<g ref="char:EOLhyphen"/>gant vireſque rep<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lunt,</hi> They drive away the Venom and repel the force of it.</p>
+            <p>On the one ſide of the Pedeſtal, where is the King on Horſeback, are theſe words written, <hi>Populi Salus.</hi> The Peoples Welfare. <hi>Procerum decus.</hi> The glory of the States.</p>
+            <p>Within the Arches Cieling are four different Hiſtorical repreſentations, in four Tables ſeperated one from another, and each of them has an inſcription, That of the firſt Table is, <hi>Refert Saturnia Regna.</hi> He reviveth the Golden Age.</p>
+            <p>In the Second Table, <hi>Novos orbes nova Sceptra paramus.</hi> We are preparing for new Worlds and new Soepters.</p>
+            <p>In the third <hi>Superare &amp; parcere veſtrum eſt.</hi> Your part it is to overcome and to forgive.</p>
+            <p>In the fourth, <hi>Caetera tranſibunt.</hi> All other Things are Tranſitory.</p>
+            <p>The Arch it ſelf is Adorn'd both before and behind, and at the top of the afore<g ref="char:EOLhyphen"/>mentioned Overtures, you ſee the Arms of <hi>England,</hi> and the Supportes withal; and of the large Overture, both behind and before, the Arms of <hi>Holland,</hi> and two Flying Fames at each ſide of them blowing their Trumpets.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:57964:4"/>
+               <head>Deſcription of the Arch in the Publick <hi>Piazza.</hi>
+               </head>
+               <p>This Triumphal Arch is as the other, of a very fine and ſtately Architecture, with Pillars coloured like Marble, Red and White, and the reſt of the body of the Work of Marble, Black and White; the Baſis and the Chapter Gilded with four great Pictures, two behind, and two before, ſet between the fore-mentioned Pillars, drawn in lively Colours; the Two that are foremoſt, repreſenting a Battle of the <hi>Romans</hi> by Sea and Land; and the Two that are behind, One repreſenting War, and the other Peace: War, with a Flaming World, near which, ſeveral Perſons repreſented, ſome dead, and ſome alive, make Juſtice lye down in Diſtreſs. Peace, with a World, upon which, Juſtice and Peace ſtanding, embrace one another, and by them is the God <hi>Pan,</hi> and his Com<g ref="char:EOLhyphen"/>panions, making themſelves merry with ſome Fruits of the Earth. At the upper part of the Arch in the middle, is a Pedeſtal, upon which is the King on Horſeback, as big as the Life, Braſs-like, with this Motto,</p>
+               <p>
+                  <hi>Regi Triumphanti.</hi>
+               </p>
+               <p>To the Triumphant King.</p>
+               <p>Above the King on Horſeback, are erected two Wreaths, croſſing and covering his Head, adorned with Green, and above it a Royal Crown, with the Scepters, a Croſs underneath.</p>
+               <p>On each ſide of the Arch are two Squares, wherein are Set, both behind and before, Tranſparent Pictures, wrought upon Silk, which were Lighted in the Evening, and ſhew'd on one ſide a Cloud, and a Pillar of Fire on the other, the Corners being adorn<g ref="char:EOLhyphen"/>ed with Green. At the Gilded Frize of the Arch, are written theſe Words;</p>
+               <p>
+                  <hi>Soloque Saeloque,</hi>
+               </p>
+               <p>By Land and Sea.</p>
+               <p>
+                  <hi>In reprimenda tyrannide &amp; reſtituenda ſoeculi felicitate;</hi>
+               </p>
+               <p>In repreſſing Tyranny, and Reſtoring the Felicity of the Age.</p>
+               <p>And on each ſide of the aforeſaid Friſe, are theſe Inſcriptions;</p>
+               <p>On the Right, <hi>Heroibus priori.</hi> To Him that excells the Hero's.</p>
+               <p>And on the Left Side, <hi>Antiquis Majori.</hi> To Him who is greater than any of the Ancients.</p>
+               <p>On each ſide of the forementioned Pedeſtal, upon which is the King on Horſeback, are two Gilded Armors, and two covered with Silver, adorned with Feathers, and ſome Trophies beſides; <hi>England</hi>'s Coat of Arms before, and the King's Cypher behind.</p>
+               <p>The ſaid Arch has on every ſide two Wings, in which are repreſented the Hiſtories of <hi>Hercules, Perſeus, Phaeton,</hi> and <hi>Andromedes</hi> Deliverance, with four Eſcutcheons of the four Kingdomes, <hi>England, Scotland, France</hi> and <hi>Ireland.</hi>
+               </p>
+               <p>Underneath, round about the ſaid Arch, are theſe words; Before, <hi>Sceptris exerciti<g ref="char:EOLhyphen"/>bus, claſſibus votis.</hi> Behind, <hi>Auguſto, armato, parato, recepto.</hi> Which muſt be read thus. <hi>Auguſto Sceptris, Armato exercitibus, Parato claſſibus, Recepto votis.</hi>
+               </p>
+               <p>Honoured with Scepters, Armed with Armies, provided with Fleets, and received with Acclamations.</p>
+               <p>On each ſide of the Arch, are two Pictures, one repreſenting <hi>Europe</hi> Diſtreſſed, and the other, <hi>Neptune</hi> Raviſhing, with this Motto: <hi>Aeripe raptori Miſeram;</hi> Snatch the wretched from the Raviſher. The other, <hi>Mea jura tuere,</hi> Defend my Right.</p>
+               <p>Above the Door of the Arch theſe words are written, <hi>Haga poſuit Coſſ. decreto.</hi> The Town of the <hi>Hague</hi> has erected this Arch by the Decree of the Magiſtrates.</p>
+            </div>
+            <div type="part">
+               <head>The Deſcription of the ſtately Arch Erected at the Great Market-place.</head>
+               <p>This Arch is the higheſt of all, without any Pillars in relief. However, it is filled with very large Pictures of a Grayiſh colour, of which, two that are upon the Door, are drawn upon Silk, to be Tranſparent by Torch-light in the Evening. Upon that Arch is a Rainbow, with three Crowns, ſeeming to hang in the Air. There is beſides upon that Arch, a Sphere, and upon it a Flying Fame with her Trumpet, and the Horſe <hi>Pegaſas</hi> running by her, and ſome Trophies on every corner of each ſide. On the back<g ref="char:EOLhyphen"/>ſide of the ſaid Arch is ſeen the Imperial Coat of Arms of <hi>Naſſau,</hi> that of the Empe<g ref="char:EOLhyphen"/>ror <hi>Adolphus</hi> of the Family of <hi>Naſſan,</hi> with the eight Quarters on every ſide. Round about the fore-mentioned Arch are theſe following Inſcriptions,</p>
+               <pb n="7" facs="tcp:57964:4"/>
+               <p>
+                  <hi>Nobilium Primo, Ducum Maximo, Poſthumo Gulielom tertio, Caelitus dato.</hi> To the Firſt, of Noble Hero's, to the greateſt of Generals <hi>WILLIAM</hi> the Third, a Poſt<g ref="char:EOLhyphen"/>humus, the Gift of Heaven. Above the Pictures on the back ſide, <hi>Victoriis, Tropheis, Fortiſſimo Imperatori, Cautiſſimo Gubernatori, deſtinates.</hi> Erected to the Victories and Trophies deſign'd for a moſt Strenuous Leader, and Prudent Commander.</p>
+               <p>Underneath at the bottom of the Arch upon one ſide, <hi>Quatour Regnorum Regi, fae<g ref="char:EOLhyphen"/>derati Belgii Gubernatori Gulielmo tertio, Virtute &amp; triumphis fulgenti.</hi> For <hi>William</hi> the Third, King of four Kingdoms, Governor of the <hi>
+                     <g ref="char:V">Ʋ</g>nited-Provinces</hi> ſhining with Virtues and Triumphs.</p>
+               <p>On the other ſide, <hi>Grati animi &amp; letitiae publicae ſiguum boe erexit, Haga Comitis.</hi>
+               </p>
+               <p>The <hi>Hague</hi> has Erected this as a Teſtimony of publick Joy and Gratitude On each ſide of the Arch are two Wings, compoſing together a half Circle, and in each of thoſe Wings are ſeven Pictures, repreſenting the Battles and Victories of the prece<g ref="char:EOLhyphen"/>dent Princes of <hi>Orange</hi> by Sea and Land, each pictares having its Motto; Upon the firſt of the right Wing; <hi>Patientia laeſa furor fit.</hi> Patience exaſperated turns to Fury.</p>
+               <p>Upon the Second, <hi>Reſpoſcit opem &amp; conſpirat amicè.</hi> The Matter Requires Aid, and Friendly Confederacy.</p>
+               <p>Upon the third, <hi>Per tela per undas.</hi> Through Darts and Waves.</p>
+               <p>Upon the fourth, <hi>Audentes Deus ipſe juvat.</hi> God himſelf aſſiſts the Couragious.</p>
+               <p>Upon the fifth, <hi>Tantas dedit Unio vires.</hi> Such is the force of Union.</p>
+               <p>Upon the ſixth, <hi>Aquilas &amp; mania cepit.</hi> Nor Walls nor Armies can reſiſt him.</p>
+               <p>Upon the ſeventh, <hi>Celſas ſuperas Virtute carinas.</hi> Your Valour Maſters the Talleſt Na<g ref="char:EOLhyphen"/>vies.</p>
+               <p>Upon the firſt of the Left Wing, <hi>Repetenda quieſcunt arma Virum.</hi> Armies laid aſide are again to be taken in hand.</p>
+               <p>Upon the ſecond, <hi>Non uno Virtus contenta Triumpho.</hi> Valour not ſatisfied with ſingle Triumph.</p>
+               <p>Upon the third, <hi>Creſcunt numero creſcente Trophaea.</hi> Number increaſing the Trophies increaſe.</p>
+               <p>Upon the fourth, <hi>Caeſorum replebant funera campos.</hi> The Funerals of the Dead fill up the Fields.</p>
+               <p>Upon the fifth, <hi>Ultra Garamantas &amp; Indos.</hi> Farther than the <hi>Garamantes</hi> and the <hi>Indies.</hi>
+               </p>
+               <p>Upon the ſixth, <hi>Fortis promiſſa Juventas.</hi> The Promiſes of a Couragious Youth.</p>
+               <p>Upon the ſeventh, <hi>Deos in praelia confert.</hi> He conſults the Gods before he goes to Battle.</p>
+               <p>In the middle of every one of thoſe Wings are two Pyramids, one at each ſide upon their Pedeſtals, which ſupport a Picture with this Inſcription: Uponthat of the Right Hand, <hi>Hanc accipe Magno Coronam.</hi> Great Hero, accept this Crown. Upon that of the Left Hand, <hi>Thure tuo redolent arae.</hi> Your Incence perfumes the Altar.</p>
+               <p>The ſame Pyramids have each in the Front three tranſparent Pictures, comprehend<g ref="char:EOLhyphen"/>ing either a Hierogliphical Figure, or ſome Trophy or Cypher, being adorned on the ſides with Green, upon one of thoſe Pyramids. The King and the Queen upon the other are ſet to the bigneſs of the Life.</p>
+               <p>Upon that of the King is this Inſcription, <hi>Quis gratior appulit oris?</hi> Whoe'er arrived more Welcom to our Shore?</p>
+               <p>Upon that of the Queen, <hi>Reprimit &amp; refigit.</hi> She repreſſes and re-eſtabliſhes.</p>
+               <p>Upon the Border of the Wings are, in their order, the firſt four Princes of <hi>Orange</hi> be<g ref="char:EOLhyphen"/>tween two Trophies.</p>
+               <p>Under the Effigies of <hi>William</hi> the Firſt, <hi>Patriae Liberatori.</hi> To his Countries Liberator.</p>
+               <p>Under that of Prince <hi>Maurice, Gloriae Vindici.</hi> To Glories Vindicator.</p>
+               <p>Under that of Prince <hi>Frederick Henry, Libertatis Aſſertori.</hi> To our Liberties Defender.</p>
+               <p>Under that of Prince <hi>William</hi> the Second, <hi>Publicae faelicitatis Statori.</hi> To the Conſer<g ref="char:EOLhyphen"/>vator of our Publick Felicity.</p>
+               <p>Above the opening of the Arch before is the Scutcheon of the <hi>Hague,</hi> with theſe Words underneath, <hi>Hic Incunabula Divum.</hi> Behold the Cradles of the Gods.</p>
+               <p>Before the Town-Houſe of the <hi>Hague</hi> are ſeven Pictures tranſparent for a Light. In the higheſt Range are placed in the middle the Repreſentations of the King and Queen; and on each ſide two Hieroglyphical Figures, one repreſenting a Lion with this Motto, <hi>Placidum venerantur, &amp; horrent infeſtum.</hi> They venerate the Moderate, and abhor the Tyrant.</p>
+               <pb n="8" facs="tcp:57964:5"/>
+               <p>On the other an Unicorn thruſting with his Horn ſome Serpents, with this Inſcripti<g ref="char:EOLhyphen"/>on, <hi>Nil paſſa Veneni.</hi> Enduring nothing Venomous.</p>
+               <p>At the Order underneath contains three Symbols more: The firſt repreſenting a Crane ſitting upon her Neſt, and clapping her Wings at the Riſing Sun, with theſe Words, <hi>Recreator ab ort<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Reviv'd by the Riſing Sun.</p>
+               <p>The ſecond repreſents <hi>Atlas</hi> upholding the World upon his Shoulder, and ſtooping under the Weight, and reſting upon a Mountain with this Inſcription, <hi>In te Domus incli<g ref="char:EOLhyphen"/>nata recumbit.</hi> Upon thee the Falling Manſion leans.</p>
+               <p>The third repreſents a Crane reſting in her Neſt, and clapping her Wings at the Ri<g ref="char:EOLhyphen"/>ſing Sun, with this Motto, <hi>Vidit &amp; exultavit.</hi> She ſaw and rejoyced.</p>
+               <p>By the Town-Houſe in the publick place of Execution, is a Tree like a Maypole, ſur<g ref="char:EOLhyphen"/>rounded with Arms in four Rows one above another for Torch-Light.</p>
+               <p>The Arch of the Bridge, commonly called the <hi>Looſduyn,</hi> has been coloured with a repreſentation of a Man and a Woman at an Altar, upon which is the King's Effigies with a ſtaff in his Hand, upon which ſtaff his Majeſties name is written, with a Crown, and theſe words underneath, <hi>Io. Triumphator.</hi> All hail Triumpher.</p>
+               <p>Upon the two Pillars of the ſaid Arch of the Bridge, are theſe following Inſcriptions, <hi>Ob Cives ſervatos, &amp; Hoſtes fugatos.</hi> For Citizens preſerved, and Enemies put to flight.</p>
+               <p>T'other ſide of the Arch, <hi>Ob Libertatia Regna, &amp; Reſtitutas Provincias.</hi> For the King<g ref="char:EOLhyphen"/>doms reſcued, and Provinces reſtored.</p>
+               <p>Behind are two Ovals beſides, in one of which is repreſented a Lawrel, and under<g ref="char:EOLhyphen"/>neath the word <hi>Victoriae,</hi> To Victory.</p>
+               <p>On the other an Orange-Tree with the word <hi>Clementiae,</hi> To Clemency.</p>
+               <p>I add here for the concluſion, that in the middle of the Pond of the Palace was ere<g ref="char:EOLhyphen"/>cted a great Scaffold upon which was ſet down the Cypher of his Majeſties name, with a Royal Crown above, which was ſhown by Torch Light, without mentioning many other curious and artfull Lights, in ſeveral other places; beſides the firing of 30 great Guns that were planted by the ſaid Pond, and frequently diſcharg'd as oc<g ref="char:EOLhyphen"/>caſions and the Deſign required.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:57964:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
